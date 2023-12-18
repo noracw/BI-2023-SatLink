@@ -1,4 +1,8 @@
-# Trabalho Final da Pós-Graduação Business Intelligence Master – 2021.3
+# Otimizando cálculos de disponibilidade de satélites com Inteligência Artificial
+
+## Trabalho Final da Pós-Graduação Business Intelligence Master – 2021.3
+
+### Eleonora Cominato Weiner
 
 
 Baixar bases de dados em:
